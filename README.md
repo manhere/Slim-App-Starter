@@ -17,7 +17,7 @@ Boilerplate to build Slim apps quickly.
 git clone https://github.com/elclanrs/Slim-App-Starter.git app
 cd app
 composer update
-git init && git add . && git commit -am 'first commit'
+git add . && git commit -am 'first commit'
 php -S localhost:8080
 watch -c sh compile.sh
 ```
