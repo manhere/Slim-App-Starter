@@ -1,10 +1,29 @@
 /**
  * Helpers
  */
+
 !function(win) {
 
   'use strict';
 
+  /**
+   * String.prototype.gmatch
+   */
+  String.prototype.gmatch = function(regex) {
+
+    var result = [];
+
+    this.replace(regex, function() {
+      var matches = [].slice.call(arguments, 1, -2);
+      result.push.apply(result, matches);
+    });
+
+    return result;
+  };
+
+  /**
+   * Parse and build URL queries
+   */
   var Query = (function QueryModule() {
 
     var Query = {};
