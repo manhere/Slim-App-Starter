@@ -1,6 +1,6 @@
 ## Slim App Starter
 
-Dependencies: NodeJS, npm, stylus, uglifyjs.
+Dependencies: NodeJS, npm, Stylus, UglifyJS.
 
 - [Slim](http://docs.slimframework.com)
 - [SlimController](https://github.com/fortrabbit/slimcontroller)
