@@ -19,7 +19,7 @@ cd app
 composer update
 git add . && git commit -am 'first commit'
 php -S localhost:8080
-watch -c sh compile.sh
+watch -c ./compile.sh
 ```
 
 - [RedBean](http://www.redbeanphp.com/)
