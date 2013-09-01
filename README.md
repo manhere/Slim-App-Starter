@@ -1,7 +1,5 @@
 ## Slim App Starter
 
-Get started on an PHP app quickly:
-
 - [Slim](http://docs.slimframework.com)
 - [SlimController](https://github.com/fortrabbit/slimcontroller)
 - [Twig](http://docs.slimframework.com)
