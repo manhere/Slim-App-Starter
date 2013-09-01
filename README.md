@@ -1,5 +1,7 @@
 ## Slim App Starter
 
+Boilerplate to build Slim apps quickly.
+
 **Dependencies:** Composer, NodeJS, npm, Stylus, UglifyJS.
 
 #### Docs
