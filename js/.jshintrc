@@ -1,0 +1,15 @@
+{
+  "devel": true,
+  "browser": true,
+  "jquery": true,
+  "node": true
+
+  "laxcomma": true,
+  "laxbreak": true,
+  "debug": true,
+  "boss": true,
+  "expr": true,
+  "bitwise": true,
+  "lastsemic": true,
+  "eqnull": true
+}
