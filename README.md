@@ -11,6 +11,7 @@ Boilerplate to build Slim apps quickly.
 - [Twig](http://docs.slimframework.com)
 - [Stylus](http://learnboost.github.io/stylus/) + [Nib](http://visionmedia.github.io/nib/)
 - [SMACSS](http://smacss.com/book/)
+* [jQuery](http://api.jquery.com/)
 
 ```
 git clone https://github.com/elclanrs/Slim-App-Starter.git app
