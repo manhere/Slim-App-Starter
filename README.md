@@ -1,4 +1,11 @@
-# Slim + SlimController + Twig + Stylus
+## Slim App Starter
+
+Get started on an PHP app quickly:
+
+- [Slim](http://docs.slimframework.com)
+- [SlimController](https://github.com/fortrabbit/slimcontroller)
+- [Twig](http://docs.slimframework.com)
+- [Stylus](http://learnboost.github.io/stylus/) + [Nib](http://visionmedia.github.io/nib/)
 
 ```
 git clone https://github.com/elclanrs/Slim-App-Starter.git app
