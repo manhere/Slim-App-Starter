@@ -1,5 +1,7 @@
 ## Slim App Starter
 
+Dependencies: NodeJS, npm, stylus, uglifyjs.
+
 - [Slim](http://docs.slimframework.com)
 - [SlimController](https://github.com/fortrabbit/slimcontroller)
 - [Twig](http://docs.slimframework.com)
@@ -10,7 +12,7 @@
 git clone https://github.com/elclanrs/Slim-App-Starter.git app
 cd app
 php -S localhost:8080
-sh compile.sh
+watch -c sh compile.sh
 composer install
 git init && git add . && git commit -am 'first commit'
 ```
